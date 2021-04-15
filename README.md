@@ -48,3 +48,6 @@ The COVID-19 pandemic has both created the need for such experience in current e
 
 ![mimic3_ms.png](./mimic3_ms.png)
 
+#### Exploration of Documentation
+
+![nlp notebook](./clinical_nlp.png)
