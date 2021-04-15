@@ -6,7 +6,7 @@ The COVID-19 pandemic has both created the need for such experience in current e
 
 ## What Has the CDTH Been Doing?
 
-### Real-world EHR Training
+## Real-world EHR Training
 
 ![temr screenshot](./temr1.png)
 
@@ -24,8 +24,27 @@ The COVID-19 pandemic has both created the need for such experience in current e
 
 ![temr cohort](./temr2.png)
 
-### Interviews Regarding Informatics Experiences
+## Interviews Regarding Informatics Experiences
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-ZviegIGkE?start=2217" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V-xnEmRpq_Y?start=1190" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## Data-Driven Research Experiences
+
+### MIMIC34MD
+
+- ICU Datamart created in collaboration between MIT and Beth-Israel Deaconess Hospital
+- ~65k de-identified cases
+- Available on Google BigQuery
+
+#### Programming-free Exploration
+
+![mimic3 timeline](./mimic3_timeline.png)
+
+![mimic3_subject.png](./mimic3_case.png)
+
+![mimic3_ms.png](./mimic3_ms.png)
+
