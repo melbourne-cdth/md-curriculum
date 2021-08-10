@@ -1,5 +1,6 @@
 ## Intended Learning Outcomes
 
+- Data, Information, and Knowledge
 - Describe how human cognition limitations and poor data quality frequently lead to suboptimal clinical decisions.
 - Describe documentation as building a database for decision making
     - Larry Weed Emory Grand Rounds
